@@ -1,3 +1,12 @@
+#things we need to get started with react
+1.Node.JS Official Website: https://nodejs.org/en/
+2..Atom Editor: https://atom.io
+3..Atom language-javascript-jsx plugin: https://atom.io/packages/language-javascript-jsx
+# run following command from place you want to create project folder
+  `npx create-react-app my-app`
+#it will create project folder its own
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
